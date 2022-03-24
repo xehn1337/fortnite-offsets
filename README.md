@@ -1,2 +1,2 @@
 # fortnite-offsets
-Last Updated: 03.03.2022
+Last Updated: 24.03.2022
